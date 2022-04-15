@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CAPSTONE_PROJECT_V0.1/1.0.0": {
+        "runtime": {
+          "CAPSTONE_PROJECT_V0.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAPSTONE_PROJECT_V0.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
